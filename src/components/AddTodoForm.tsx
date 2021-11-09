@@ -33,7 +33,8 @@ const AddTodoForm: React.FC<Props> = ({
       >
         <Grid
           item
-          xs={10}
+          xs={12}
+          md={10}
         >
           <TextField
             required
@@ -47,13 +48,15 @@ const AddTodoForm: React.FC<Props> = ({
         </Grid>
         <Grid
           item
-          xs={2}
+          xs={12}
+          md={2}
           display="flex"
           alignItems="stretch"
         >
           <Button
             type="submit"
             variant="contained"
+            fullWidth
           >
             Add
           </Button>

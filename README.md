@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Amplify React GraphQL Todo App
+
+## Demo
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/21682157/140919441-0d4c4e26-c71a-423d-bb67-af13665488ac.gif)
+
+## Architecture
+![amplify-react-graphql-todo](https://user-images.githubusercontent.com/21682157/140833758-05dcd35a-2951-46aa-abed-9ac6bd751075.jpg)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
